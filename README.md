@@ -1,6 +1,6 @@
 # BlogMura Patrol (Node.js / TypeScript)
 
-Java + Selenium 版をベースに、**Playwright** を使ったモダンな Node.js/TypeScript プロジェクトに移植した雛形です。
+Java + Selenium 版をベースに、**Playwright** を使った Node.js/TypeScript プロジェクトに移植した雛形です。
 - Node.js v20+（お手元は v22.18.0 でOK）
 - Playwright（Chrome/Chromium を自動管理。WSL/Ubuntuで動作）
 - .env でメール/パスワード、巡回URLなどを設定
