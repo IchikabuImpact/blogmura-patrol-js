@@ -1,0 +1,2 @@
+# ここに1行1URLで巡回先を列挙します。例:
+https://blogmura.com/profiles/11180823/?p_cid=11180823

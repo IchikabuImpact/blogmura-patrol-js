@@ -1,0 +1,55 @@
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json*
+# ^ lockfileは基本コミット推奨。既に生成済みなら上の行は削除してください。
+
+# TypeScript
+*.tsbuildinfo
+
+# Build artifacts
+dist/
+coverage/
+.nyc_output/
+
+# Playwright
+playwright-report/
+blob-report/
+test-results/
+playwright/.cache/
+
+# Env
+.env
+.env.*
+!.env.example
+.envrc
+
+# Logs & tmp
+logs/
+*.log
+*.log.*
+pids/
+*.pid
+*.seed
+*.pid.lock
+tmp/
+temp/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.history/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Misc
+*.local
+*.orig
+*.rej
